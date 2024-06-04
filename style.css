@@ -1,0 +1,56 @@
+body {
+  background: #cd8c8c;
+}
+h1 {
+  color: blue;
+  font-size: 26px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+h2 {
+  font-size: 40px;
+  font-family: sans-serif;
+}
+h3 {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+h4 {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+p {
+  font-size: 22px;
+  font-family: sans-serif;
+  line-height: 2.5;
+}
+li {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+#list1 {
+  color: #3ee00d;
+}
+
+#ole {
+  border: 5px dotted #ce0de0;
+}
+
+#blog:visited {
+  color: #fff;
+  background: #000;
+  cursor: pointer;
+  text-decoration: blink;
+}
+
+#flexbox:active {
+  font-size: 40px;
+  color: #3ee00d;
+  text-decoration: overline underline;
+}
+
+.mainNavbar:hover {
+  color: while;
+  background: #000;
+}
